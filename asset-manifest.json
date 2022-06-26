@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/landingpage-cruz/static/css/main.462cf8cf.css",
+    "main.js": "/landingpage-cruz/static/js/main.82383da1.js",
+    "static/media/jenny.png": "/landingpage-cruz/static/media/jenny.7999e00d69bc4f321835.png",
+    "index.html": "/landingpage-cruz/index.html",
+    "main.462cf8cf.css.map": "/landingpage-cruz/static/css/main.462cf8cf.css.map",
+    "main.82383da1.js.map": "/landingpage-cruz/static/js/main.82383da1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.462cf8cf.css",
+    "static/js/main.82383da1.js"
+  ]
+}
